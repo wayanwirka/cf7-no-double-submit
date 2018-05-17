@@ -2,7 +2,7 @@
 /*
 Plugin Name: Contact Form 7 Prevent Multi-Submits
 Plugin URI: https://github.com/wayanwirka/cf7-no-double-submit
-Description: Prevent double clicks when Contact Form 7 is still submitting the form that causing the multiple same submissions coming through.
+Description: By enabling this plugin, it prevents double clicks when Contact Form 7 is still submitting the form that causing the multiple same submissions coming through.
 Version: 1.0
 Author: I Wayan Wirka
 Author URI: https://duststone.com
